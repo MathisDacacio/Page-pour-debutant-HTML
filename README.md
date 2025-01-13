@@ -2,6 +2,16 @@
 
 Ce projet est un exemple simple pour apprendre les bases de la création de pages HTML. Il inclut des éléments essentiels tels que des titres, des listes, des liens, et un formulaire de contact.
 
+## Table des Matières
+
+- [Aperçu](#aperçu)
+- [Fonctionnalités](#fonctionnalités)
+- [Prérequis](#prérequis)
+- [Comment utiliser le projet](#comment-utiliser-le-projet)
+- [Voir le rendu](#voir-le-rendu)
+- [Structure des fichiers](#structure-des-fichiers)
+- [Contact](#contact)
+
 ## Aperçu
 
 Ce projet affiche une page web contenant :
@@ -37,10 +47,6 @@ Cela affichera la page web dans votre navigateur !
 ## Structure des fichiers
 
 - `index.html` : Contient la structure principale de la page HTML.
-
-## Contribution
-
-Les contributions sont les bienvenues ! Si vous souhaitez améliorer ce projet, n'hésitez pas à soumettre une pull request ou à ouvrir une issue.
 
 ## Contact
 
